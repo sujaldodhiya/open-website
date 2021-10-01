@@ -1,4 +1,4 @@
 import webbrowser
 
-url = ""
+url = input("Enter the url")
 webbrowser.open(url)
